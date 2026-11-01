@@ -1,0 +1,6 @@
+{
+  "name": "ساعة أنيقة - Simple Clock",
+  "description": "ساعة رقمية وتناظرية بسيطة وأنيقة مع توقيت عالمي ومؤقت وساعة إيقاف وخلفيات مريحة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
